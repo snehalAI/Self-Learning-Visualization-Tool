@@ -1,6 +1,0 @@
-Product,Sales,Date
-Laptop,500,2026-06-01
-Phone,300,2026-06-02
-Tablet,200,2026-06-03
-Headphones,150,2026-06-04
-Smartwatch,250,2026-06-05
